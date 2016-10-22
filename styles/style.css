@@ -1,0 +1,18 @@
+html {background-color: #a8a9ab}
+h1 {text-transform: uppercase}
+body {
+	text-align: center;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black}
+
+#first-p-tag {
+	font-weight: bold;
+	font-size: 18px
+}
+.other-p-tags {
+	font-style: italic;
+}
+img {border:10px solid black;}
+img {size: 100px}
+img	{float: right}
+hr {width: 70%}
